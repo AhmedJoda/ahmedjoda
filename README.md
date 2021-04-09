@@ -18,7 +18,7 @@ You can see what I am currently up to on [https://ahmedjoda.github.io/portfolio]
 - Web: [https://ahmedjoda.github.io/portfolio][1]
 - LinkedIn: [linkedin.com/in/ahmed-joda-b1029920a][2]
 - Twitter: [twitter.com/ahmedjoda02][3]
-- YouTube: [youtube.com//channel/UC6R3NoVUNSzp1LpdntKDXfg][4]
+- YouTube: [youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg][4]
 
 ## &#x1f4c8; My GitHub Stats
 
