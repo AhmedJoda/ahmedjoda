@@ -43,4 +43,4 @@ You can see what I am currently up to on [https://ahmedjoda.github.io/portfolio]
 [1]: https://ahmedjoda.github.io/portfolio
 [2]: https://www.linkedin.com/in/ahmed-joda-b1029920a
 [3]: https://twitter.com/intent/follow?screen_name=ahmedjoda02
-[4]: fhttps://www.youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg
+[4]: https://www.youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg
