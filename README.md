@@ -7,7 +7,7 @@
 
 ### Yo! 👋🏻,
 
-I am a passionate Full Stack Software Developer 🚀 from Egypt 🇪🇬. having an experience of building Web and Mobile applications with JavaScript, Php, vue, NodeJS, TypeScript, flutter and some other cool libraries and frameworks.
+I am a passionate Back-End Software Developer 🚀 from Egypt 🇪🇬. having an experience of building Web and Mobile applications with JavaScript, Php, vue, NodeJS, TypeScript, flutter and some other cool libraries and frameworks.
 
 Interested in game development.
 
