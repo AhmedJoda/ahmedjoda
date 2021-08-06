@@ -33,9 +33,10 @@ You can see what I am currently up to on [https://ahmedjoda.github.io/portfolio]
 ### 🌎 My Languages 🌎
 
 - 🇪🇬 🇸🇦 Arabic: Native
-- 🇺🇸 English: B2
+- 🇺🇸 English: C2
 - 🇹🇷 Turkish: B1
 - 🇩🇪 German: A2
+- 🇫🇷 French: A1
 - 🇯🇵 Japanese: ありがとうございました (that's it, that's all of my Japanese)
 
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
