@@ -7,9 +7,7 @@
 
 ### Yo! 👋🏻,
 
-I am a passionate Back end Software Developer 🚀 from Egypt 🇪🇬. having an experience of building Web and Mobile applications with JavaScript, Php, vue, NodeJS, TypeScript, flutter and some other cool libraries and frameworks.
-
-Interested in game development.
+I am a passionate Back end Developer 🚀 from Egypt 🇪🇬. with more than 3 years experience delivering tech solutions, avid programmer and fast learner, obsessed with details and quality, always tring to improve develpment process and code quality, I love simple and elegant solutions for every problem.
 
 You can see what I am currently up to on [https://ahmedjoda.github.io/portfolio][1].
 
