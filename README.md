@@ -6,7 +6,7 @@
 
 ### Yo! 👋🏻,
 
-I am a passionate Back end Engineer 🚀 from Egypt 🇪🇬. with more than 3 years experience delivering tech solutions, avid programmer and fast learner, obsessed with details and quality, always trying to improve development process and code quality, I love simple and elegant solutions for every problem.
+I am a passionate backend engineer 🚀 from Egypt 🇪🇬. with more than 3 years experience delivering tech solutions, avid programmer and fast learner, obsessed with details and quality, always trying to improve development process and code quality, I love simple and elegant solutions for every problem.
 
 You can see what I am currently up to on [https://ahmedjoda.github.io/portfolio][1].
 
