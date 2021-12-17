@@ -1,8 +1,8 @@
 <img width="300px" align="right" src="https://ahmedjoda.github.io/my-portfolio/static/media/profile.6778fced.webp"/>
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=ahmedjoda&color=FAC151)][1]
-[![PHP](https://img.shields.io/badge/PHP-Devaloper-FAC151.svg?logo=php&logoWidth=20)](https://github.com/ahmedjoda)
-[![youtube](https://img.shields.io/badge/Fekret%20Code-Follow%20Us-FAC151.svg?logo=youtube&logoWidth=20)][4]
+[![Python](https://img.shields.io/badge/Python-Devaloper-FAC151.svg?logo=Python&logoWidth=20)](https://github.com/ahmedjoda)
+[![PHP](https://img.shields.io/badge/PHP-Devaloper-FAC151.svg?logo=php&logoWidth=20)](https://github.com/ahmedjoda)[![youtube](https://img.shields.io/badge/Fekret%20Code-Follow%20Us-FAC151.svg?logo=youtube&logoWidth=20)][4]
 
 ### Yo! 👋🏻,
 
