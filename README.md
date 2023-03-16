@@ -32,7 +32,6 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 - 🇪🇬 🇸🇦 Arabic: Native
 - 🇺🇸 English: C2
 - 🇹🇷 Turkish: B2
-- 🇫🇷 French: B1
 - 🇩🇪 German: A1
 - 🇯🇵 Japanese: ありがとうございました (that's it, that's all of my Japanese)
 
