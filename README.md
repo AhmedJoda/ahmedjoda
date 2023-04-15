@@ -40,6 +40,6 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 
 [1]: https://ahmedalmory.github.io/portfolio
-[2]: https://www.linkedin.com/in/ahmedalmory
+[2]: https://www.linkedin.com/in/ahmedalmory02
 [3]: https://twitter.com/intent/follow?screen_name=ahmedalmory02
 [4]: https://www.youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg
