@@ -15,7 +15,7 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 ## 📬 Get in touch
 
 - Web: [https://ahmedalmory.github.io/portfolio][1]
-- LinkedIn: [linkedin.com/in/ahmedalmory][2]
+- LinkedIn: [linkedin.com/in/ahmedalmory02][2]
 - Twitter: [twitter.com/ahmedalmory02][3]
 - YouTube: [youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg][4]
 
