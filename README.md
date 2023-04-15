@@ -15,7 +15,7 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 ## 📬 Get in touch
 
 - Web: [https://ahmedalmory.github.io/portfolio][1]
-- LinkedIn: [linkedin.com/in/ahmedalmory02][2]
+- LinkedIn: [linkedin.com/in/ahmedalmory][2]
 - Twitter: [twitter.com/ahmedalmory02][3]
 - YouTube: [youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg][4]
 
@@ -40,6 +40,6 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 
 [1]: https://ahmedalmory.github.io/portfolio
-[2]: https://www.linkedin.com/in/ahmedalmory02
+[2]: https://www.linkedin.com/in/ahmedalmory
 [3]: https://twitter.com/intent/follow?screen_name=ahmedalmory02
 [4]: https://www.youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg
