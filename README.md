@@ -16,7 +16,7 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 
 - Web: [https://ahmedalmory.github.io/portfolio][1]
 - LinkedIn: [linkedin.com/in/ahmedalmory][2]
-- Twitter: [twitter.com/almoryahmed99][3]
+- Twitter: [twitter.com/ahmedalmory99][3]
 - YouTube: [youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg][4]
 
 ## &#x1f4c8; My GitHub Stats
@@ -41,5 +41,5 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 
 [1]: https://ahmedalmory.github.io/portfolio
 [2]: https://www.linkedin.com/in/ahmedalmory
-[3]: https://twitter.com/intent/follow?screen_name=almoryahmed99
+[3]: https://twitter.com/intent/follow?screen_name=ahmedalmory99
 [4]: https://www.youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg
