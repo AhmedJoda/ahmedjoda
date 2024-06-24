@@ -1,4 +1,4 @@
-<img width="300px" align="right" src="https://ahmedalmory.github.io/my-portfolio/static/media/profile.6778fced.webp"/>
+<img width="300px" align="right" src="https://ahmedalmory.github.io/portfolio/img/ahmed.54f72b69.jpg"/>
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=ahmedalmory&color=FAC151)][1]
 [![PHP](https://img.shields.io/badge/PHP-Devaloper-FAC151.svg?logo=php&logoWidth=20)](https://github.com/ahmedalmory)
